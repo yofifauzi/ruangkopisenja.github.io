@@ -239,6 +239,7 @@ body {
   display: flex;
   margin-top: 2rem;
   background-color: #222;
+  /* height: 35rem; */
 }
 
 .contact .row .map {
